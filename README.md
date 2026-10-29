@@ -15,3 +15,19 @@ I’m turning an idea into a playable 2D game in Godot. This profile is where I�
 - Games and prototypes
 - Experiments with gameplay ideas
 - Progress from my game development journey
+
+## 🛠️ Tools & Learning
+
+### Currently using
+- **Godot Engine** — building my current 2D game
+- **GitHub** — sharing my projects and documenting my progress
+
+### Currently learning
+- Gameplay programming and interactive systems
+- 2D movement, collisions, and animation
+- UI, menus, and game flow
+- Debugging and problem-solving
+- Git and version control
+
+### Looking ahead
+I want to explore more areas of game development as I finish projects and grow my skills.
