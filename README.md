@@ -1,34 +1,17 @@
+# Hey, I’m an aspiring game developer 👋
 
-# Hi, I'm Chris 👋
+I’m learning game development by making games, experimenting with ideas, and working through the challenges along the way.
 
-I'm an aspiring technical writer with a background in security monitoring and an interest in making technology easier to understand.
+🎮 **Currently building:** a 2D game in Godot  
+🌱 **My focus:** growing my skills across game development  
+🛠️ **My approach:** build, test, learn, repeat
 
-My experience in an alarm monitoring center has given me an appreciation for clear procedures, accurate information, and communication that helps people make decisions.
+### My current project
 
-I'm now building my technical writing skills by researching, testing, and documenting tools and technologies.
+I’m turning an idea into a playable 2D game in Godot. This profile is where I’ll share progress, lessons learned, and projects as they take shape.
 
-## What I'm Working On
+### What you’ll find here
 
-- Writing beginner-friendly technical guides and tutorials
-- Learning Markdown, GitHub, and documentation workflows
-- Developing troubleshooting guides and step-by-step instructions
-- Building a portfolio of practical technical writing samples
-
-## Topics I'm Interested In
-
-- IT support and troubleshooting
-- Security and alarm technology
-- Software and productivity tools
-- Technology for creative workflows
-
-## My Writing Portfolio
-
-I'm currently developing my first technical writing samples. I'll link to completed projects here as they're published.
-
-## Connect With Me
-
-- Portfolio website: Coming soon
-
----
-
-*I believe good documentation should help people feel more capable, not more confused.*
+- Games and prototypes
+- Experiments with gameplay ideas
+- Progress from my game development journey
